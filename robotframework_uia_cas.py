@@ -15,3 +15,4 @@ login=cas.ButtonControl(AutomationId ="btn_login")
 login.click()
 
 print("test")
+print ("test2")
