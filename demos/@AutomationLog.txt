@@ -1,0 +1,11 @@
+create a transparent image
+create a blue image
+write 500x500 image by SetPixelColor cost 0.609s
+read 500x500 image by GetPixelColor cost 0.453s
+write 500x500 image by SetPixelColorsHorizontally cost 0.219s
+read 500x500 image by GetAllPixelColors cost 0.109s
+please run Firefox first
+我将运行cmd并设置它的屏幕缓冲区使cmd一行能容纳很多字符
+
+move mouse to a tree control and press Ctrl+1
+move mouse to a tree control and press Ctrl+1

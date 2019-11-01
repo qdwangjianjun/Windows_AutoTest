@@ -1,0 +1,152 @@
+2019-07-06 12:59:30.113 ut.py[41] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'Login', ControlType: WindowControl}
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:37:52.030 automation.py[75] main -> Starts, Current Cursor Position: (787, 625)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-75,0,1765,1012)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (-51,3,1757,31)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (-67,8,-45,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (-67,8,-45,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1618,1,1665,31)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1665,1,1711,31)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1711,1,1758,31)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:37:52.608 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:41:23.592 automation.py[75] main -> Starts, Current Cursor Position: (720, 525)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-21,0,1819,1012)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (3,3,1811,31)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1672,1,1719,31)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1719,1,1765,31)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1765,1,1812,31)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:41:24.186 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:44:03.278 automation.py[75] main -> Starts, Current Cursor Position: (498, 434)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-21,0,1819,1012)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (3,3,1811,31)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1672,1,1719,31)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1719,1,1765,31)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1765,1,1812,31)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:44:03.887 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:44:18.919 automation.py[75] main -> Starts, Current Cursor Position: (617, 595)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-21,0,1819,1012)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (3,3,1811,31)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1672,1,1719,31)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1719,1,1765,31)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1765,1,1812,31)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:44:19.497 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:44:34.248 automation.py[75] main -> Starts, Current Cursor Position: (428, 452)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-21,0,1819,1012)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (3,3,1811,31)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (-13,8,9,30)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1672,1,1719,31)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1719,1,1765,31)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1765,1,1812,31)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:44:34.857 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 15:50:30.066 automation.py[75] main -> Starts, Current Cursor Position: (1153, 517)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (700,32,2540,1044)[1840x1012]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (724,35,2532,63)[1808x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (708,40,730,62)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (708,40,730,62)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (2393,33,2440,63)[47x30]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (2440,33,2486,63)[46x30]    Name: 最大化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (2486,33,2533,63)[47x30]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 15:50:30.706 automation.py[110] main -> Ends
+
+UIAutomation 2.0.3 (Python 3.7.2, 32 bit)
+2019-07-08 18:12:03.468 automation.py[75] main -> Starts, Current Cursor Position: (504, 471)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: 桌面 1    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: SunAwtFrame    AutomationId:     Rect: (-8,-8,1928,1048)[1936x1056]    Name: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    Handle: 0x404FE(263422)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (16,-5,1920,23)[1904x28]    Name:     Handle: 0x0(0)    Depth: 2    ValuePattern.Value: CAS_AutoTest [D:\python_work\CAS_AutoTest] - ...\ut\ut.py [CAS_AutoTest] - PyCharm    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (0,0,22,22)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (0,0,22,22)[22x22]    Name: 系统    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1779,0,1826,22)[47x22]    Name: 最小化    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1826,0,1872,22)[46x22]    Name: 还原    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (1872,0,1919,22)[47x22]    Name: 关闭    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2019-07-08 18:12:04.128 automation.py[110] main -> Ends
+
+2019-07-09 08:48:14.027 ut.py[110] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:04:34.893 ut.py[111] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:05:03.448 ut.py[111] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:14:06.429 ut.py[118] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:15:06.912 ut.py[125] <module> -> Find Control Timeout: {ClassName: 'DataGridRow'}
+2019-07-09 09:16:14.591 ut.py[98] load_yaml -> Find Control Timeout: {ClassName: 'DataGridRow'}
+2019-07-09 09:18:56.709 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:19:10.778 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:19:34.676 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:22:23.981 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:22:50.390 ut.py[98] load_yaml -> Find Control Timeout: {ClassName: 'DataGridRow'}
+2019-07-09 09:24:00.969 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:24:17.677 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:25:35.865 ut.py[98] load_yaml -> Find Control Timeout: {ClassName: 'DataGridRow'}
+2019-07-09 09:26:10.163 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:26:27.321 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:26:47.807 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:27:01.389 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:27:18.713 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:30:25.293 ut.py[98] load_yaml -> Find Control Timeout: {ClassName: 'DataGridRow'}
+2019-07-09 09:50:20.137 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:50:36.611 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:52:03.880 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:52:42.580 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:52:56.966 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:53:24.136 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:53:38.668 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:54:09.935 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:54:27.241 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:54:40.803 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 09:55:55.257 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 10:13:53.007 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 10:14:12.911 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 10:16:42.344 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 10:18:09.577 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 10:19:06.440 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 11:49:54.194 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 11:51:16.065 ut.py[121] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:25:30.502 ut.py[122] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:25:46.864 ut.py[122] <module> -> Find Control Timeout: {AutomationId: 'myMainWindow', Name: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:26:55.493 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:31:00.288 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:31:46.377 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:32:00.637 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:32:17.670 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:32:45.338 ut.py[132] <module> -> Find Control Timeout: {AutomationId: 'my123'}
+2019-07-09 18:33:38.179 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:34:17.119 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:34:44.899 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:34:59.862 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-09 18:35:18.335 patientpage.py[10] active_page -> Find Control Timeout: {AutomationId: 'myMainWindow', RegexName: 'PatientManager', ControlType: WindowControl}
+2019-07-10 10:27:44.790 ut.py[153] <module> -> Find Control Timeout: {Name: '文件(F)', ControlType: MenuItemControl}
+2019-07-10 10:29:42.317 ut.py[153] <module> -> Find Control Timeout: {Name: '文件(F)', Depth: 3, ControlType: MenuItemControl}
+2019-07-19 11:06:23.107 surgicalsimulationpage.py[35] SetCTPreset -> Can not move curosr. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2019-07-19 14:35:15.410 surgicalsimulationpage.py[44] SetCTPreset -> Can't find 1 in ComboBoxControl or it does not support selection.
+2019-07-19 14:41:44.812 surgicalsimulationpage.py[47] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:08:20.839 surgicalsimulationpage.py[48] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:09:33.925 surgicalsimulationpage.py[48] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:10:01.368 surgicalsimulationpage.py[48] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+Can not load UIAutomationCore.dll.
+You may need to install Windows Update KB971513.
+https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2019-07-19 15:11:33.843 surgicalsimulationpage.py[48] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:11:35.064 surgicalsimulationpage.py[48] SetCTPreset -> Can not move curosr. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: 'CT Preset', ControlType: ListItemControl}
+2019-07-19 15:15:26.313 surgicalsimulationpage.py[48] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:26:56.200 surgicalsimulationpage.py[49] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.
+2019-07-19 15:27:53.424 surgicalsimulationpage.py[49] SetCTPreset -> Can't find  in ComboBoxControl or it does not support selection.

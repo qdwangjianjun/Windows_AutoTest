@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.7.2 on win32)" generated="20190322 14:32:36.765" rpa="false">
+<suite id="s1" name="Cas" source="E:\python_project\Robotframwork_test\cas.robot">
+<test id="s1-t1" name="My Test">
+<kw name="Runapp" library="WinAuto">
+<arguments>
+<arg>args=D:\\release4003\\cas-lv.exe</arg>
+<arg>cwd=D:\\release4003</arg>
+</arguments>
+<status status="PASS" starttime="20190322 14:32:36.828" endtime="20190322 14:32:36.828"></status>
+</kw>
+<kw name="Window Control" library="WinAuto">
+<doc>element: int
+searchFromControl: Control, if is None, search from root control(Desktop)
+searchDepth: int, max search depth from searchFromControl
+foundIndex: int, value must &gt;= 1
+searchWaitTime: float, wait searchWaitTime before every search
+searchPorpertyDict: a dict that defines how to search, the following keys can be used
+                    ControlType: int, a value in class ControlType
+                    ClassName: str or unicode
+                    AutomationId: str or unicode
+                    Name: str or unicode
+                    SubName: str or unicode
+                    RegexName: str or unicode, supports regex
+                    Depth: int, relative depth from searchFromControl, if set, searchDepth will be set to Depth too
+                    Compare: custom compare function(control, depth) returns a bool value</doc>
+<arguments>
+<arg>searchDepth=1</arg>
+<arg>AutomationId=myMainWindow</arg>
+<arg>Name=Login</arg>
+</arguments>
+<assign>
+<var>${cas}</var>
+</assign>
+<msg timestamp="20190322 14:32:36.937" level="INFO">${cas} = ControlType: WindowControl    ClassName: Window    AutomationId: myMainWindow    Rect: (0, 0, 1920, 1080)    Name: Login    Handle: 0xB0C5C(724060)</msg>
+<status status="PASS" starttime="20190322 14:32:36.828" endtime="20190322 14:32:36.937"></status>
+</kw>
+<kw name="Window Control Set Active" library="WinAuto">
+<doc>WindowControl:WindowControl object
+waitTime: float
+Similar to SwitchToThisWindow</doc>
+<arguments>
+<arg>${cas}</arg>
+</arguments>
+<status status="PASS" starttime="20190322 14:32:36.937" endtime="20190322 14:32:38.087"></status>
+</kw>
+<kw name="Control Exists" library="WinAuto">
+<doc>Control: the Control object
+maxSearchSeconds: float
+searchIntervalSeconds: float
+Find control every searchIntervalSeconds seconds in maxSearchSeconds seconds.
+Return True if found</doc>
+<arguments>
+<arg>${cas}</arg>
+<arg>searchIntervalSeconds=2</arg>
+</arguments>
+<assign>
+<var>${casid}</var>
+</assign>
+<msg timestamp="20190322 14:32:38.103" level="INFO">2.0</msg>
+<msg timestamp="20190322 14:32:38.103" level="INFO">${casid} = True</msg>
+<status status="PASS" starttime="20190322 14:32:38.087" endtime="20190322 14:32:38.103"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${casid}</arg>
+</arguments>
+<msg timestamp="20190322 14:32:38.103" level="INFO">True</msg>
+<status status="PASS" starttime="20190322 14:32:38.103" endtime="20190322 14:32:38.103"></status>
+</kw>
+<status status="PASS" starttime="20190322 14:32:36.828" endtime="20190322 14:32:38.103" critical="yes"></status>
+</test>
+<doc>Example using the space separated plain text format.</doc>
+<status status="PASS" starttime="20190322 14:32:36.765" endtime="20190322 14:32:38.103"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Cas">Cas</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

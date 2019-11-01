@@ -1,0 +1,155 @@
+2019-07-05 18:12:31,756 logger start INFO 应用启动成功
+2019-07-05 18:12:33,048 logger connect INFO 应用已经启动
+2019-07-05 18:12:33,048 logger connect INFO 应用已经启动
+2019-07-05 18:15:08,819 logger start INFO 应用启动成功
+2019-07-05 18:15:09,677 logger connect INFO 应用已经启动
+2019-07-05 18:15:09,677 logger connect INFO 应用已经启动
+2019-07-05 18:15:09,693 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'depth': 1, 'title': 'Login'}
+2019-07-05 18:15:09,693 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'depth': 1, 'title': 'Login'}
+2019-07-05 18:15:09,693 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'depth': 1, 'title': 'Login'}
+2019-07-05 18:18:54,299 logger start INFO 应用启动成功
+2019-07-05 18:18:55,615 logger connect INFO 应用已经启动
+2019-07-05 18:18:55,615 logger connect INFO 应用已经启动
+2019-07-05 18:18:55,615 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'title': 'Login'}
+2019-07-05 18:18:55,615 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'title': 'Login'}
+2019-07-05 18:18:55,615 logger find ERROR 控件查找失败{'auto_id': 'myMainWindow', 'title': 'Login'}
+2019-07-05 18:25:06,365 logger start INFO 应用启动成功
+2019-07-05 18:25:07,772 logger connect INFO 应用已经启动
+2019-07-05 18:25:07,772 logger connect INFO 应用已经启动
+2019-07-05 18:25:08,632 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:25:08,632 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:25:08,632 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:29:31,589 logger start INFO 应用启动成功
+2019-07-05 18:29:33,023 logger connect INFO 应用已经启动
+2019-07-05 18:29:33,023 logger connect INFO 应用已经启动
+2019-07-05 18:29:33,700 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:29:33,700 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:29:33,700 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-05 18:31:32,118 logger start INFO 应用启动成功
+2019-07-05 18:31:33,488 logger connect INFO 应用已经启动
+2019-07-05 18:31:33,488 logger connect INFO 应用已经启动
+2019-07-05 18:31:38,590 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:31:38,590 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:31:38,590 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:32:49,238 logger start INFO 应用启动成功
+2019-07-05 18:32:50,634 logger connect INFO 应用已经启动
+2019-07-05 18:32:50,634 logger connect INFO 应用已经启动
+2019-07-05 18:32:55,739 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:32:55,739 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:32:55,739 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:52:42,933 logger start INFO 应用启动成功
+2019-07-05 18:53:12,586 logger start INFO 应用启动成功
+2019-07-05 18:53:13,352 logger connect INFO 应用已经启动
+2019-07-05 18:53:13,352 logger connect INFO 应用已经启动
+2019-07-05 18:53:18,408 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:53:18,408 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:53:18,408 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:53:38,803 logger start INFO 应用启动成功
+2019-07-05 18:53:40,047 logger connect INFO 应用已经启动
+2019-07-05 18:53:40,047 logger connect INFO 应用已经启动
+2019-07-05 18:53:45,055 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:53:45,055 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 18:53:45,055 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-05 19:07:07,123 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 09:00:12,817 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 09:01:50,163 logger find INFO 控件查找成功{'auto_id': 'txt_username'}
+2019-07-06 09:06:55,647 logger start INFO 应用启动成功
+2019-07-06 09:07:03,819 logger start INFO 应用已经启动
+2019-07-06 09:07:03,819 logger start INFO 应用已经启动
+2019-07-06 09:08:30,521 logger start INFO 应用已经启动
+2019-07-06 09:09:16,175 logger start INFO 应用启动成功
+2019-07-06 09:11:03,490 logger start INFO 应用启动成功
+2019-07-06 09:14:06,255 logger start INFO 应用已经启动
+2019-07-06 09:14:06,442 logger start INFO 应用已经启动
+2019-07-06 09:14:06,442 logger start INFO 应用已经启动
+2019-07-06 09:14:06,442 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 09:14:06,442 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 09:14:06,442 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 09:26:45,208 logger start INFO 应用已经启动
+2019-07-06 09:27:15,334 logger active ERROR CAS应用未启动
+2019-07-06 09:27:15,334 logger active ERROR CAS应用未启动
+2019-07-06 09:31:00,395 logger start INFO 应用已经启动
+2019-07-06 09:31:30,573 logger active ERROR CAS应用未启动
+2019-07-06 09:31:30,573 logger active ERROR CAS应用未启动
+2019-07-06 09:31:59,754 logger start INFO 应用已经启动
+2019-07-06 09:35:32,254 logger start INFO 应用已经启动
+2019-07-06 09:37:20,761 logger start INFO 应用已经启动
+2019-07-06 09:37:41,856 logger start INFO 应用已经启动
+2019-07-06 09:37:42,434 logger active INFO 激活CAS成功
+2019-07-06 09:37:42,434 logger active INFO 激活CAS成功
+2019-07-06 09:37:42,606 logger start INFO 应用已经启动
+2019-07-06 09:37:42,606 logger start INFO 应用已经启动
+2019-07-06 09:37:42,606 logger start INFO 应用已经启动
+2019-07-06 09:39:08,593 logger start INFO 应用已经启动
+2019-07-06 09:39:09,218 logger active INFO 激活CAS成功
+2019-07-06 09:39:09,218 logger active INFO 激活CAS成功
+2019-07-06 09:39:09,374 logger start INFO 应用已经启动
+2019-07-06 09:39:09,374 logger start INFO 应用已经启动
+2019-07-06 09:39:09,374 logger start INFO 应用已经启动
+2019-07-06 09:41:18,071 logger start INFO 应用已经启动
+2019-07-06 09:41:18,711 logger active INFO 激活CAS成功
+2019-07-06 09:41:18,711 logger active INFO 激活CAS成功
+2019-07-06 09:42:56,905 logger start INFO 应用已经启动
+2019-07-06 09:42:57,490 logger active INFO 激活CAS成功
+2019-07-06 09:42:57,490 logger active INFO 激活CAS成功
+2019-07-06 09:42:57,692 logger start INFO 应用已经启动
+2019-07-06 09:42:57,692 logger start INFO 应用已经启动
+2019-07-06 09:42:57,692 logger start INFO 应用已经启动
+2019-07-06 09:47:49,348 logger start INFO 应用已经启动
+2019-07-06 09:47:49,942 logger active INFO 激活CAS成功
+2019-07-06 09:47:49,942 logger active INFO 激活CAS成功
+2019-07-06 09:47:50,129 logger start INFO 应用已经启动
+2019-07-06 09:47:50,129 logger start INFO 应用已经启动
+2019-07-06 09:47:50,129 logger start INFO 应用已经启动
+2019-07-06 09:55:04,115 logger active INFO CAS启动成功
+2019-07-06 09:56:10,599 logger active INFO CAS启动成功
+2019-07-06 09:56:39,132 logger active INFO CAS启动成功
+2019-07-06 10:00:37,849 logger active INFO CAS启动成功
+2019-07-06 10:11:56,756 logger active INFO CAS启动成功
+2019-07-06 10:11:56,756 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-06 10:11:56,756 logger find ERROR 控件查找失败{'auto_id': 'txt_username'}
+2019-07-10 11:03:29,219 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-10 14:37:37,721 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-10 14:38:03,064 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-10 14:38:24,376 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'Login'}
+2019-07-10 14:38:29,712 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-10 14:38:29,712 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:35:51,149 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:38:08,805 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'Name'： 'PatientManager'}
+2019-07-11 14:40:23,835 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:41:01,019 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:44:44,613 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:50:43,318 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:52:03,220 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:52:29,075 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:52:46,385 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:52:59,009 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:53:17,716 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:53:41,110 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:53:58,294 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'Login'}
+2019-07-11 14:54:03,690 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:54:03,690 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:54:09,812 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:54:09,812 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:54:09,812 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:54:12,216 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:54:33,172 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'Login'}
+2019-07-11 14:54:50,070 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:54:50,070 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 14:55:09,050 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 14:55:37,473 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL', 'searchDepth'： 5}
+2019-07-11 15:00:28,511 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:00:44,626 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL'}
+2019-07-11 15:10:14,791 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:12:21,422 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:15:34,171 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:17:37,361 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:18:57,704 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:22:31,263 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:23:59,019 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:33:31,147 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 15:55:53,882 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-11 16:48:17,976 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-16 11:21:34,760 logger find ERROR 元素查找失败{'searchFromControl'： <uiautomation.uiautomation.Control object at 0x07FA6110>, 'Name'： 'ImageControl2D', 'searchDepth'： 5}
+2019-07-16 11:22:56,387 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-16 11:23:50,593 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}

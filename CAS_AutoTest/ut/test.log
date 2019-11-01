@@ -1,0 +1,17 @@
+2019-07-09 19:15:05,796 logger find ERROR 元素查找失败{'AutomationId'： '123'}
+2019-07-09 19:17:15,348 logger find ERROR 元素查找失败{'AutomationId': '123'}
+2019-07-11 15:02:14,045 logger find ERROR 元素查找失败{'ControlType'： 'EditControl', 'AutomationId'： 'WL'}
+2019-07-12 14:01:31,672 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:02:23,789 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:03:30,869 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:22:16,162 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:22:49,487 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:40:33,000 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:44:49,159 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 14:48:04,477 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 15:00:59,025 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 15:02:08,324 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 15:32:19,222 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 15:37:48,865 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-12 15:47:59,334 logger find ERROR 元素查找失败{'searchDepth'： 1, 'AutomationId'： 'myMainWindow', 'RegexName'： 'PatientManager'}
+2019-07-19 13:48:54,103 logger find ERROR 元素查找失败{'searchFromControl'： <uiautomation.uiautomation.Control object at 0x0B187190>, 'searchDepth'： 6}
