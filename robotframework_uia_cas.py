@@ -13,3 +13,5 @@ print(type(cas))
 print(cas)
 login=cas.ButtonControl(AutomationId ="btn_login")
 login.click()
+
+print("分支测试")
